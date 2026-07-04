@@ -1,0 +1,11 @@
+client_secret*.json
+
+fullchain.pem
+privkey.pem
+server.key
+server.crt
+
+__pycache__/
+*.pyc
+
+.venv/
