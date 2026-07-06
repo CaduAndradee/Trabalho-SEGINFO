@@ -4,10 +4,5 @@ auth = autenticar_google()
 
 print("\n========== CREDENCIAIS ==========\n")
 
-print("Access Token:")
-print(auth["access_token"])
-
-print("\n-------------------------------\n")
-
 print("ID Token:")
 print(auth["id_token"])
