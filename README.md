@@ -17,7 +17,7 @@ Desenvolvido como Trabalho Prático (TP3 e TP4) para a disciplina de Segurança 
 
 * `server.py`: Servidor de roteamento TLS que gerencia conexões e repassa os frames criptografados.
 * `client.py`: Cliente de chat E2E com interface de terminal.
-* `auth_google_server.py`: Módulo responsável por validar as assinaturas JWT (JWKS do Google) no backend.
+* `auth_google_server.py`: Módulo responsável por validar as assinaturas JWT (JWKS do Google).
 * `auth_google_client.py`: Módulo que abre o fluxo de login no navegador para obtenção do ID Token.
 * `teste_server_auth.py` / `teste_google.py`: Scripts auxiliares para demonstração de falhas de autenticação.
 
